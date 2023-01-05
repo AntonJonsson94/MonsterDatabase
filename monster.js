@@ -1,5 +1,7 @@
 "use strict";
 //Array för monster
+console.log("Ändring");
+
 const monsters = [
     {
         name: "Blarg",
