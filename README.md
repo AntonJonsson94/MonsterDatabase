@@ -1,3 +1,3 @@
 # MonsterDatabase
 
-This is a project about Monsters 
+This is a project about Monsters.
